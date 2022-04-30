@@ -1,5 +1,7 @@
 package dao;
 
-public class CategoriaDAO {
+
+
+public class CategoriaDAO{
 
 }
