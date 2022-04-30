@@ -1,5 +1,9 @@
 package interfaces;
 
-public interface IResumenPartidaDAO {
+import java.util.ArrayList;
 
+import clases.ResumenPartida;
+
+public interface IResumenPartidaDAO {
+	public ArrayList<ResumenPartida> resumen();
 }
