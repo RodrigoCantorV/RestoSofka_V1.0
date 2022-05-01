@@ -75,7 +75,7 @@ public class Principal {
 				obJugadorDAO.crearJugador(obJugador);
 
 				// listar pregunta por categoria
-
+				// para responder las preguntas debe de seleccionar el numero de la respuesta que considere sea la correcta recuerde estas son las opciones 0,1,2,3 
 				do {
 					Pregunta PreguntaAleatoria[];
 					Respuesta MisRespuestas[];
